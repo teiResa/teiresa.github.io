@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: TechnicallyKeen
+name: TechnicallyKeen (Resa Balsdon)
 
 # Short bio or description (displayed in the header)
 description: We all have to start somewhere.
@@ -17,6 +17,7 @@ avatar: https://github.com/teiResa/teiresa.github.io/blob/master/images/teiResaH
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  wix: https://techkeen.wixsite.com/website
   dribbble:
   email: techkeen@outlook.com
   facebook:
