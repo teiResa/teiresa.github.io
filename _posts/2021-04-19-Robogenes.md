@@ -3,7 +3,6 @@ layout: post
 title: Robogenes, my personal website
 ---
 
--link: https://teiresa.github.io/robogenes/
 <html>
 <a href="https://teiresa.github.io/robogenes/"> https://teiresa.github.io/robogenes/ </a>
 </html>
