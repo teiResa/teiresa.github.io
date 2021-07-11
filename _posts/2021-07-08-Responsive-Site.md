@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Responsive Site: A Landing Page
+title: Responsive Site-- A Landing Page
 ---
 
 <html>
