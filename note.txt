@@ -15,13 +15,15 @@ _includes
       svg-icons.html        Icons for websites (GH, Twitter, FB, etc.)
 _layouts
       Where you edit the
-      default.html
+      default.html          EVERYTHING ON EVERY PAGE BE DEFAULT
       gallery.html
       page.html
       post.html
 _posts
-      these are the blog posts. I may have to move these from index to blog.
+      these are the blog posts.
       I am not sold on having a blog. We'll see.
+_projects
+      these show off my gh projects, their sites, etc.
 _sass
       sass stylesheets
 .git
