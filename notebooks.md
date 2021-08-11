@@ -22,14 +22,14 @@ permalink: /notebooks/
 Recent blog entries:
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.noteposts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ notepost.title }}</a></h1>
       <div class="date">
-        Written on {{ page.date | date: "%B %e, %Y" }}
+        Written on {{ notepage.date | date: "%B %e, %Y" }}
       </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ notepost.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
