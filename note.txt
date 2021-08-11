@@ -1,1 +1,19 @@
 https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+
+
+
+
+WEBSITE MAP
+_art
+      each gallery entry gets an .md and an image file of the same name
+_includes
+      analytics.html        google analytics
+      disqus.html           needs JS enabled
+      meta.html             SEO for SEs and Social Media
+      svg-icons.html        Icons for websites (GH, Twitter, FB, etc.)
+_layouts
+      Where you edit the 
+      default.html
+      gallery.html
+      page.html
+      post.html
