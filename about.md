@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 <<<<<<< Updated upstream
-Resa Balsdon is a self-taught "travelling programmer" from Canada, with 
-Intentions to study Electrical Engineering in the future. Her studies have
-followed her around Canada and China, and to Macau, the USA, and Hong Kong.
+Resa Balsdon is a self-taught "travelling programmer" from Canada, with
+Intentions to study Electrical/Robotics Engineering in the future. Her studies have followed her around Canada and China, and to Macau, the USA, and Hong Kong.
 =======
 R
 
@@ -25,7 +24,7 @@ Resa has experience programming in the following:
  <li> JavaScript </li>
  <li> Jekyll* </li>
  <li> Arduino (Processing/C)</li>
- <li> Java </li> 
+ <li> Java </li>
  <p> * I'm aware. </p>
 </ul>
 
