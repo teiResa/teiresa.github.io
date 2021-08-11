@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: TechnicallyKeen (Resa Balsdon)
+name: TechnicallyKeen
 
 # Short bio or description (displayed in the header)
 description: <i> We all have to start somewhere. </i>
@@ -24,10 +24,10 @@ footer-links:
   flickr:
   github: https://github.com/teiResa
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/theresa-balsdon-123745126/
   pinterest:
-  rss: 
-  twitter: 
+  rss:
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 

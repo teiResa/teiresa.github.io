@@ -2,11 +2,19 @@
 layout: default
 ---
 
-<article class="page">
+<article class="gallery">
 
   <h1>{{ art.title }}</h1>
 
-  <div class="entry">
+  <div class="art">
+    {{ sample }}
+  </div>
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+  <div class="excerpt">
     {{ content }}
   </div>
+
+    {% include disqus.html %}
 </article>

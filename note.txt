@@ -5,15 +5,37 @@ https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
 
 WEBSITE MAP
 _art
-      each gallery entry gets an .md and an image file of the same name
+      Images for the gallery only.
+      Each gallery entry gets an .md, an image file, and a full page for itself
+       of the same name.
 _includes
       analytics.html        google analytics
       disqus.html           needs JS enabled
       meta.html             SEO for SEs and Social Media
       svg-icons.html        Icons for websites (GH, Twitter, FB, etc.)
 _layouts
-      Where you edit the 
+      Where you edit the
       default.html
       gallery.html
       page.html
       post.html
+_posts
+      these are the blog posts. I may have to move these from index to blog.
+      I am not sold on having a blog. We'll see.
+_sass
+      sass stylesheets
+.git
+      git stuff. Ignore me. GH has your back.
+_images
+      Images for the rest of the site.
+      img
+              images for the notebooks and blog posts
+              Can share name with place it belongs, if unlikely to be reused.
+              Can be reused, use descriptive name.
+_config.yml
+      Site name, site description, tab icon (favicon?), and links to social media
+.gitignore
+      Ignore me
+404.md
+      404 page. CUSTOMISE THIS.
+about.md
