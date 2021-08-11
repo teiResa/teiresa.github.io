@@ -4,9 +4,16 @@ title: About
 permalink: /about/
 ---
 
+<<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with 
 Intentions to study Electrical Engineering in the future. Her studies have
 followed her around Canada and China, and to Macau, the USA, and Hong Kong.
+=======
+R
+
+Resa Balsdon is a self-taught "travelling programmer" from Canada. Her studies have
+followed her around Canada, and to China, Macao, and Hong Kong. /br
+>>>>>>> Stashed changes
 
 
 ### Programming Languages
