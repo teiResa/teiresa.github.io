@@ -14,11 +14,12 @@ Resa has experience programming in the following:
 <ul>
  <!-- <li> JavaScript </li> -->
  <li> Python </li>
- <li> HTML & CSS </li>
+ <li> HTML & CSS * </li>
  <li> JavaScript </li>
- <li> Jekyll </li>
+ <li> Jekyll* </li>
  <li> Arduino (Processing/C)</li>
- <!-- <li> Java </li> -->
+ <li> Java </li> 
+ <p> * I'm aware. </p>
 </ul>
 
 ### Human Languages
