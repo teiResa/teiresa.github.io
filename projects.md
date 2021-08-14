@@ -25,15 +25,15 @@ The links lead to the project sites. I intend to put small previews of the other
   <ul>
     <li> <a href="https://teiresa.github.io/java/pages/index.html"> A collection of Java projects </a> </li>
     <li> <a href=""> A collection of Arduino (C++) projects </a> </li>
-    <li> <a href=""> Some Python </li>
+    <li> <a href=""> Some Python </a> </li>
   </ul>
 
   <h2> Miscellany </h2>
   <ul>
   Some incomplete projects I am keeping to finish when I have the time:
-  <li> <a href="https://teiresa.github.io/TicTacTwo/"> <s> Tic Tac Toe (CSS) </a> </s> </li>
-  <li> <a href="https://teiresa.github.io/Hangman/"> <s> Hangman (Py) </a> </s> </li>
-</ul>
+  <li> <a href="https://teiresa.github.io/TicTacTwo/"> <s> Tic Tac Toe (CSS) </s></a> </li>
+  <li> <a href="https://teiresa.github.io/Hangman/"> <s> Hangman (Py) </s></a> </li>
+  </ul>
 </div>
 
 
