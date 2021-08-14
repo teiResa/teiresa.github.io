@@ -9,13 +9,13 @@ permalink: /notebooks/
 </p>
 
   <ul>
-    <li> WebDev </li>
-    <li> Electronics </li>
-    <li> Programming </li>
-    <li> Arduino </li>
+    <li> <a href="https://techkeen.wixsite.com/website/"> WebDev </a> </li>
+    <li> <a href="https://techkeen.wixsite.com/website/"> Electronics </a> </li>
+    <li> <a href="https://techkeen.wixsite.com/website/"> Programming </a> </li>
+    <li><a href="https://techkeen.wixsite.com/website/"> Arduino </a> </li>
     <br>
-    <li> Home Projects </li>
-    <li> La Cuisine </li>
+    <li> <a href="https://techkeen.wixsite.com/website/"> Home Projects </a> </li>
+    <li> <a href="https://techkeen.wixsite.com/website/"> La Cuisine </a> </li>
   </ul>
 </div>
 
