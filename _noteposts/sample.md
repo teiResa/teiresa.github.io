@@ -1,5 +1,5 @@
 ---
-layout: notepost
+layout: post
 title: Sample note page
 notebook:
 subject:

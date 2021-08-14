@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<article class="notepost">
-  <h1>{{ notepost.title }}</h1>
+<article class="post">
+  <h1>{{ post.title }}</h1>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ notepage.date | date: "%B %e, %Y" }}
+    Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
   {% include disqus.html %}
