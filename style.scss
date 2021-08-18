@@ -46,7 +46,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 50px;
+  text-shadow: -1px -1px 0px $clr-blue,
+    3px 3px 0px $clr-blue,
+    6px 6px 0px $clr-blue-900;
   a {
     color: inherit;
   }
