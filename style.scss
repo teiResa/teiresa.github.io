@@ -212,8 +212,8 @@ img {
   font-size: 32px;
   letter-spacing: 5px;
   text-shadow: -1px -1px 0px #6060BC,
-    3px 3px 0px #fff,
-    6px 6px 0px darken(#6060BC, .5);
+    2px 2px 0px #fff,
+    4px 4px 0px darken(#6060BC, .5);
 
   @include mobile {
     margin: 0;
