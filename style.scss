@@ -233,7 +233,7 @@ nav {
 
   &:hover, &:active {
     color: #6060BC;
-    
+
   }
 
   a {
@@ -251,7 +251,7 @@ nav {
 }
 
 nav #navbutt {
-  text-align: ransition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
 
   &:hover, &:active {
     color: #6060BC;
