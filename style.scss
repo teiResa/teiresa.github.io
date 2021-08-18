@@ -196,10 +196,10 @@ img {
 
 .site-name {
   margin: 0;
-  color: $pink;
+  color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -214,17 +214,25 @@ img {
   }
 }
 
+
+
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  transition: all .2s ease-in-out;
 
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
     font-size: 16px;
+  }
+
+  &:hover, &:active {
+    color: #6060BC;
+    transform: scale(1.1);
   }
 
   a {
