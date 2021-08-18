@@ -73,8 +73,11 @@ a {
   color: #387543;
   text-decoration: none;
 	cursor: pointer;
+  transition: all .2s ease-in-out;
   &:hover, &:active {
     color: #6060BC;
+    transform: scale(1.5);
+
   }
 }
 
