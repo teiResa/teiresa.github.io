@@ -213,8 +213,8 @@ img {
   letter-spacing: 5px;
 line-spacing: 2px;
   text-shadow: -1px -1px 0px #387543,
-    2px 2px 0px #fff,
-    4px 4px 0px darken(#6060BC, .5);
+    2px 2px 1px #fff,
+    4px 4px 2px darken(#6060BC, .5);
 
   @include mobile {
     margin: 0;
@@ -229,7 +229,7 @@ line-spacing: 2px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -25px 0 0 0;  		//was -5 T
   color: $gray;
 	font-family: 'Gaegu', cursive;
   font-size: 26px;
