@@ -207,7 +207,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   /* font-family: $helveticaNeue; */
-  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Cute Font', cursive;
   font-weight: 600;
   font-size: 32px;
   letter-spacing: 5px;
@@ -220,7 +220,7 @@ img {
     color: $darkGray;
     cursor: pointer;
     /* font-family: $helveticaNeue; */
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Cute Font', cursive;
     font-weight: 600;
     font-size: 32px;
     letter-spacing: 5px;
@@ -230,6 +230,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+	font-family: 'Gaegu', cursive;
   font-size: 16px;
 
   @include mobile {
