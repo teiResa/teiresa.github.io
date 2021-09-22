@@ -6,7 +6,7 @@ permalink: /projects/
 
 The links lead to the project sites. I intend to put small previews of the other end of the links here in the future. They're in no perticular order.
 
-Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a href="https://techkeen.wixsite.com/rwd/"> watch my progress </a> .
+Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a href="https://teiresa.github.io/rwd/"> watch my progress </a> .
 
 <h2> WebDev & Design </h2>
 <em> Includes illustrations and animations. </em>
