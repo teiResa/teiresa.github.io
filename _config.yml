@@ -6,7 +6,7 @@
 name: TechnicallyKeen
 
 # Short bio or description (displayed in the header)
-description: We all have to start somewhere. 
+description: We all have to start somewhere.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/teiResaHead.ico
@@ -22,9 +22,9 @@ footer-links:
   email: techkeen@outlook.com
   facebook:
   flickr:
-  github: https://github.com/teiResa
+  github: teiResa
   instagram:
-  linkedin: www.linkedin.com/in/theresa-balsdon
+  linkedin: theresa-balsdon
   pinterest:
   rss:
   twitter:
