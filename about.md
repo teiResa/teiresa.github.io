@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<script src="https://use.fontawesome.com/dd8cca5335.js"></script> 
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
 Intentions to study Electrical/Robotics Engineering in the future. Her studies have followed her around Canada and China, and to Macau, the USA, and Hong Kong.
@@ -17,6 +17,10 @@ followed her around Canada, and to China, Macao, and Hong Kong. /br
 
 ### Programming Languages
 Resa has experience programming in the following:
+<p>
+  <i class="fa fa-css3" aria-hidden="true"></i><i class="fa fa-html5" aria-hidden="true"></i>
+ </p>
+
 <ul>
  <!-- <li> JavaScript </li> -->
  <li> Python </li>
