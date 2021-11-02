@@ -18,7 +18,9 @@ followed her around Canada, and to China, Macao, and Hong Kong. /br
 ### Programming Languages
 Resa has experience programming in the following:
 <p>
+  <i class="fa-brands fa-bootstrap" aria-hidden="true"></i><i class="fa-brands fa-js-square" aria-hidden="true"></i>
   <i class="fa fa-css3" aria-hidden="true"></i><i class="fa fa-html5" aria-hidden="true"></i>
+  <i class="fa-solid fa-infinity" aria-hidden="true"> Arduino </i><i class="fa-brands fa-python" aria-hidden="true"></i>
  </p>
 
 <ul>
