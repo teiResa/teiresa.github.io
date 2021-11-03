@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-{% include typeWriter/typeWriter.html %} 
-<img src="https://teiresa.github.io/background/typeWriter/typeWriter.html" alt="typeWriter should be here">
-![Alt Text](_includes/typeWriter/typeWriter.html)
+
+![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
 
 
 <<<<<<< Updated upstream
@@ -19,9 +18,8 @@ Resa Balsdon is a self-taught "travelling programmer" from Canada. Her studies h
 followed her around Canada, and to China, Macao, and Hong Kong. /br
 >>>>>>> Stashed changes
 
-{% include typeWriter/typeWriter.html %} 
-<img src="https://teiresa.github.io/background/typeWriter/typeWriter.html" alt="typeWriter should be here">
-![Alt Text](_includes/typeWriter/typeWriter.html)
+
+![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
 
 ### Programming Languages
 Resa has experience programming in the following:
