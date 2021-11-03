@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include /typeWriter/typeWriter.html %} 
+{% include typeWriter/typeWriter.html %} 
 
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
