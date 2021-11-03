@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 {% include typeWriter/typeWriter.html %} 
+<img src="https://teiresa.github.io/background/typeWriter/typeWriter.html" alt="typeWriter should be here">
+
 
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
