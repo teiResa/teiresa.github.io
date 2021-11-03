@@ -6,6 +6,7 @@ permalink: /about/
 
 {% include typeWriter/typeWriter.html %} 
 <img src="https://teiresa.github.io/background/typeWriter/typeWriter.html" alt="typeWriter should be here">
+![Alt Text](_includes/typeWriter/typeWriter.html)
 
 
 <<<<<<< Updated upstream
