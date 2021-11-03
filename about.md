@@ -14,6 +14,7 @@ Resa Balsdon is a self-taught "travelling programmer" from Canada. Her studies h
 followed her around Canada, and to China, Macao, and Hong Kong. /br
 >>>>>>> Stashed changes
 
+[<img src="{{ site.baseurl }}/images/typewriter.gif" alt="A gif of a words being typed." style="width: ; margin-left: 13%;"/>]
 
 ### Programming Languages
 Resa has experience programming in the following:
