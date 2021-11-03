@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+{% include /typeWriter/typeWriter.html %} 
+
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
 Intentions to study Electrical/Robotics Engineering in the future. Her studies have followed her around Canada and China, and to Macau, the USA, and Hong Kong.
