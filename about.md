@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+
+![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
+
+
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
 Intentions to study Electrical/Robotics Engineering in the future. Her studies have followed her around Canada and China, and to Macau, the USA, and Hong Kong.
@@ -15,6 +19,8 @@ followed her around Canada, and to China, Macao, and Hong Kong. /br
 >>>>>>> Stashed changes
 
 [<img src="{{ site.baseurl }}/images/typewriter.gif" alt="A gif of a words being typed." style="width: ; margin-left: 13%;"/>]
+
+![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
 
 ### Programming Languages
 Resa has experience programming in the following:
