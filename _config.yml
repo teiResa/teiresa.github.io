@@ -6,7 +6,7 @@
 name: TechnicallyKeen
 
 # Short bio or description (displayed in the header)
-description: {% include typeWriter/typeWriter.html %} 
+description: We all have to start somewhere.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/teiResaHead.ico
