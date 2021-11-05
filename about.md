@@ -21,16 +21,16 @@ followed her around Canada, and to China, Macao, and Hong Kong. /br
 
 ### Programming Languages
 Resa has experience programming in the following:
-<div>
+<!-- div>
   <i class="fab fa-bootstrap" aria-hidden="true"></i><i class="fab fa-js-square" aria-hidden="true"></i>
   <i class="fa fa-css3" aria-hidden="true"></i><i class="fa fa-html5" aria-hidden="true"></i>
   <i class="fab fa-java" aria-hidden="true"> Arduino </i><i class="fab fa-python" aria-hidden="true"></i>
- </div>
+ </div -->
 
 <ul>
  <!-- <li> JavaScript </li> -->
  <li> Python </li>
- <li> HTML & CSS * </li>
+ <li> <i class="fa fa-html5" aria-hidden="true"></i> HTML & CSS <i class="fa fa-css3" aria-hidden="true"></i> * </li>
  <li> JavaScript </li>
  <li> Jekyll* </li>
  <li> Arduino (Processing/C)</li>
