@@ -17,7 +17,7 @@ followed her around Canada, and to China, Macao, and Hong Kong. /br
 >>>>>>> Stashed changes
 
 
-![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter-final.gif)
+![Alt Text](https://teiresa.github.io/background/typeWriter/typewrite-final.gif)
 
 ### Programming Languages
 Resa has experience programming in the following:
