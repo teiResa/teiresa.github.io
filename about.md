@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
-
 
 <<<<<<< Updated upstream
 Resa Balsdon is a self-taught "travelling programmer" from Canada, with
@@ -18,8 +16,6 @@ Resa Balsdon is a self-taught "travelling programmer" from Canada. Her studies h
 followed her around Canada, and to China, Macao, and Hong Kong. /br
 >>>>>>> Stashed changes
 
-[<img src="{{ site.baseurl }}/images/typewriter.gif" alt="A gif of a words being typed." style="width: auto ; margin-left: 13%;"/>]({{ site.baseurl }}/)
-[<img src="{{ site.baseurl }}/images/404 teiResa.gif" alt="My logo looking left and right." style="width: 800px; margin-left: 13%;"/>]({{ site.baseurl }}/)
 
 ![Alt Text](https://teiresa.github.io/background/typeWriter/typewriter.gif)
 
