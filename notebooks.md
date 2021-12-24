@@ -11,7 +11,7 @@ permalink: /notebooks/
   <ul>
     <li> <a href="https://teiresa.github.io/rwd/"> <b> Bootcamp</b> Responsive Web Design </a> </li>
     <li> <a href="https://teiresa.github.io/gallery/resources/wireframes/wireframes-notebook.html"> UX/UI Design </a> </li>
-    <li> <a href="https://teiresa.github.io/responsive-site/strap/practice1.html"> Bootstrap practice </a> </li>
+    <li> <a href="https://teiresa.github.io/responsive-site/strap/practice1.html"> Frameworks </a> </li>
     <li> <a href="https://techkeen.wixsite.com/website/"> WebDev </a> </li>
     <li> <a href="https://techkeen.wixsite.com/website/"> Electronics </a> </li>
     <li> <a href="https://techkeen.wixsite.com/website/"> Programming </a> </li>
