@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Doflye Arduino Manual
+date: 2020 09 22
 ---
 
 TL;DR: The Doflye manual, while not completely horrid, really sucks.
@@ -8,7 +9,7 @@ TL;DR: The Doflye manual, while not completely horrid, really sucks.
 
 
 	When I purchased my Arduino kit(s) from TaoBao**, it came with a Manual written in Chinese, " __ " or "Makers Introduced To Practice". I didn't see this as much of a problem. Over the next few months, I slowly used an image translation APP to learn some theory. The problem with this method is since I cannot read Chinese at this level, I had no choice but to just take their word for it.
-	Another downside to my method: lack of information. The writers of this book decided that just a few quick points would be more than enough. 
+	Another downside to my method: lack of information. The writers of this book decided that just a few quick points would be more than enough.
 
 
 	Example using Buzzers vs Speakers:
@@ -19,7 +20,7 @@ There is a full-page, page 85, dedicated to comparing Electromagnetic Speakers t
 
 !! Do not use these notes to study from!!
 
- I will link proper notes in the future. 
+ I will link proper notes in the future.
 
 Linked: here. (if not blue, they're not posted yet)
 
@@ -38,7 +39,7 @@ How they're composed.
 
 
 
-2. Factories fix the frequency when they make the buzzers. 
+2. Factories fix the frequency when they make the buzzers.
 
 A horn is told what to do by the program [the code].
 
@@ -56,4 +57,4 @@ The Doflye manual is not the most complicated thing to study from with an image 
 
 
 
-**a very popular Chinese shopping App. 
+**a very popular Chinese shopping App.
