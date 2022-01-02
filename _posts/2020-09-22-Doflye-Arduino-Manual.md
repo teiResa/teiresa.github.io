@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Doflye Arduino Manual
-date: 2020 09 22
+date: '2016-05-29 13:25:00 -0400'
+categories: food
 ---
 
 TL;DR: The Doflye manual, while not completely horrid, really sucks.
