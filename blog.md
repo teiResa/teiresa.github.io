@@ -12,6 +12,10 @@ permalink: /blog/
       <div class="date">
         Written on {{ page.date | date: "%B %e, %Y" }}
       </div>
+      
+      <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
