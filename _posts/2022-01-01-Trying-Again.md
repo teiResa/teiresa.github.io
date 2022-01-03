@@ -1,7 +1,9 @@
+
 ---
 layout: post
 title: Resuming the blog, Jekyll, and 2022 intensions.
-categories: "bootstrap" "webdev" "Jekyll"
+description: This came with Jekyll.
+
 ---
 
 {{ page.title }}
