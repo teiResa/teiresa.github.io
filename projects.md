@@ -13,15 +13,15 @@ Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a
 <ul>
   <li> <a href="https://teiresa.github.io/responsive-site/strap/fruitstand/pages/fs-catalogue.html"> Tei's Fruit Stall (storefront) </a> </li>
   <li> <a href="https://teiresa.github.io/responsive-site/strap/notebook/pages/html/html_notes.html"> Resa's Notebook (technical document?) </a></li>
-  <li> <a href="https://techkeen.wixsite.com/website/"> (Former) Notes Website </a> </li>
+  <li> <a href="https://techkeen.wixsite.com/website/"> <s> Notes Website </s> </a> </li>
   <li> <a href="https://teiresa.github.io/Pure-CSS-Illustrations-Lessons/"> Pure CSS Illustrations </a> </li>
   <li> <a href="https://teiresa.github.io/profile-card-component/"> Profile Card </a> </li>
   <li><a href="https://teiresa.github.io/responsive-site/"> Sample Responsive Website </a> </li>
   <br>
   <br>
   And a few from the pre-responsive era:
-  <li> <a href="https://teiresa.github.io/esl-teacher-desk/"> ESL teacher website </a> </li>
-  <li> <a href="https://teiresa.github.io/robogenes/"> former personal site </a> </li>
+  <li> <a href="https://teiresa.github.io/esl-teacher-desk/"> <s>ESL teacher website</s> </a> </li>
+  <li> <a href="https://teiresa.github.io/robogenes/"> <s> former personal site </s></a> </li>
  </ul>
 
 <h2> Programming languages </h2>
