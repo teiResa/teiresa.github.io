@@ -38,6 +38,6 @@ Some incomplete projects I am keeping to finish when I have the time:
   <li> <a href="https://teiresa.github.io/TicTacTwo/"> <s> Tic Tac Toe (CSS) </s></a> </li>
   <li> <a href="https://teiresa.github.io/Hangman/"> <s> Hangman (Py) </s></a> </li>
   </ul>
-</div>
+
 
 
