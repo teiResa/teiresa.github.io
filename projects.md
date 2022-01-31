@@ -15,7 +15,7 @@ Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a
   <li> <a href="https://teiresa.github.io/responsive-site/strap/notebook/pages/html/html_notes.html"> Resa's Notebook (technical document?) </a></li>
   <li> <a href="https://techkeen.wixsite.com/website/"> <s> Notes Website </s> </a> </li>
   <li> <a href="https://teiresa.github.io/Pure-CSS-Illustrations-Lessons/"> Pure CSS Illustrations </a> </li>
-  <li> <a href="https://teiresa.github.io/profile-card-component/"> Profile Card </a> </li>
+  <li> <a href="https://teiresa.github.io/profile-card-component/"> Profile Card. </a> </li>
   <li><a href="https://teiresa.github.io/responsive-site/"> Sample Responsive Website </a> </li>
   <br>
   <br>
