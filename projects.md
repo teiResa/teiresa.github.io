@@ -37,6 +37,7 @@ Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a
 <h2> Miscellany </h2>
 Some incomplete projects I am keeping to finish when I have the time:
   <ul>
+  <li> <a href="https://teiresa.github.io/TeiRunner/"> Tei Runner (CSS & JS) </a></li>
   <li> <a href="https://teiresa.github.io/TicTacTwo/"> <s> Tic Tac Toe (CSS) </s></a> </li>
   <li> <a href="https://teiresa.github.io/Hangman/"> <s> Hangman (Py) </s></a> </li>
   </ul>
