@@ -6,15 +6,11 @@ permalink: /about/
 
 
 
-<<<<<<< Updated upstream
-Resa Balsdon is a self-taught "travelling programmer" from Canada, with
-Intentions to study Electrical/Robotics Engineering in the future. Her studies have followed her around Canada and China, and to Macau, the USA, and Hong Kong.
-=======
-R
-
 Resa Balsdon is a self-taught "travelling programmer" from Canada. Her studies have
 followed her around Canada, and to China, Macao, and Hong Kong. /br
->>>>>>> Stashed changes
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%235AA56E&vCenter=true&height=30&lines=technicallyKeen;We+all+have+to+start+somewhere.;teiResa;Theresa+Balsdon" alt="#">
+
 
 
 ![Alt Text](https://teiresa.github.io/background/typeWriter/typewrite-final.gif)
