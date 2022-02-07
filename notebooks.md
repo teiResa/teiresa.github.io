@@ -5,6 +5,7 @@ permalink: /notebooks/
 ---
 
 <div class="notebooks-list">
+  <p> I may or may not have a quiz on the subject. <a href="https://teiresa.github.io/background/quiz/quizes.html">check here! </a></p>
 <p> In the process of moving stuff from <a href="https://techkeen.wixsite.com/website/"> my wix site </a>
 </p>
 
