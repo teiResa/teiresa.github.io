@@ -16,7 +16,7 @@ html, body {
 }
 
 body {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.479); /* down to 50% to show moving background */
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
