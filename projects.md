@@ -11,6 +11,9 @@ Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a
 <h2> WebDev & Design </h2>
 <em> Includes illustrations and animations. </em>
 <ul>
+  <li> <a href="https://teiresa.github.io/dumbears/"> Dumbears (Air-Raid Sirens) </a> </li>
+  <li> <a href="https://teiresa.github.io/digiDaruma/index2.html"> Digidaruma (Lucky Rolly-Pollies) </a> </li>
+  <li> <a href="https://teiresa.github.io/digiDaruma/assets/muyu/index.html"> MechaMuyu (That lucky fish instrument) </a> </li>
   <li> <a href="https://teiresa.github.io/responsive-site/strap/fruitstand/pages/fs-catalogue.html"> Tei's Fruit Stall (storefront) </a> </li>
   <li> <a href="https://teiresa.github.io/responsive-site/strap/notebook/pages/html/html_notes.html"> Resa's Notebook (technical document?) </a></li>
   <li> <a href="#"> TeiToobe (video player site) </a></li>
@@ -23,6 +26,13 @@ Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a
   And a few from the pre-responsive era:
   <li> <a href="https://teiresa.github.io/esl-teacher-desk/"> <s>ESL teacher website</s> </a> </li>
   <li> <a href="https://teiresa.github.io/robogenes/"> <s> former personal site </s></a> </li>
+ </ul>
+
+ <h2> Clients & Brands </h2>
+<em> Brand management, graphic design,  </em>
+<ul>
+  <li> <a href="https://jam-cabin.github.io/"> MrD4d0u's Jam Cabin (<i class="fa-brands fa-youtube"></i> <i class="fa-brands fa-bilibili"></i> <i class="fa-solid fa-earth-americas"></i>) </a> </li>
+  <li> <a href="https://miaSeym.github.io/"> Mia Seym (<i class="fa-brands fa-youtube"></i> <i class="fa-brands fa-bilibili"></i> <i class="fa-solid fa-earth-americas"></i>) </a> </li>
  </ul>
 
 <h2> Programming languages </h2>
