@@ -1,0 +1,11 @@
+/*
+This is just for the header background.
+It's the github contributions calender from profile.
+*/
+#header {
+  background-image: image("http://ghchart.rshah.org/teiResa");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+/*# sourceMappingURL=contributions-background.css.map */

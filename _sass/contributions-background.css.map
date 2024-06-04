@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;EAGE;AAEF,AAAA,OAAO,CAAC;EACN,gBAAgB,EAAE,yCAAyC;EAC3D,iBAAiB,EAAE,SAAS;EAC5B,mBAAmB,EAAE,MAAM;EAC3B,eAAe,EAAE,OAAO;CACzB",
+    "sources": [
+        "contributions-background.scss"
+    ],
+    "names": [],
+    "file": "contributions-background.css"
+}

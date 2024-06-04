@@ -9,7 +9,7 @@ The links lead to the project sites. I intend to put small previews of the other
 Also, if you would be interested, I recently enrolled in a bootcamp. Click to <a href="https://teiresa.github.io/rwd/"> watch my progress </a> .
 
 <h2> WebDev & Design </h2>
-<em> Includes illustrations and animations. </em>
+<em> Includes illustrations and animations. test </em>
 <ul>
   <li> <a href="https://teiresa.github.io/dumbears/"> Dumbears (Air-Raid Sirens) </a> </li>
   <li> <a href="https://teiresa.github.io/digiDaruma/index2.html"> Digidaruma (Lucky Rolly-Pollies) </a> </li>
